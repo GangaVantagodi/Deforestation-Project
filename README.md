@@ -41,5 +41,11 @@ _Table 3.2: Top 5 Percent Decrease in Forest Area by Country, 1990 & 2016_
 
 When we consider countries that decreased in forest area percentage the most between 1990 and 2016, we find that 4 of the top 5 countries on the list are in the region of Sub-Saharan Africa. The countries are Togo,Nigeria,Uganda,Mauritania. The 5th country on the list is Honduras, which is in the Latin America & Caribbean region.
 
+From the above analysis, we see that Nigeria is the only country that ranks in the top 5 both in terms of absolute square kilometer decrease in forest as well as percent decrease in forest area from 1990 to 2016. Therefore, this country has a significant opportunity ahead to stop the decline and hopefully spearhead remedial efforts.
+
+_C. QUARTILES_
+_Table 3.3: Count of Countries Grouped by Forestation Percent Quartiles, 2016_
+![Quartile](
+
 
 
