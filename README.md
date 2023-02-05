@@ -33,4 +33,3 @@ Which countries are seeing deforestation to the largest degree? We can answer th
 
 _Table 3.1: Top 5 Amount Decrease in Forest Area by Country, 1990 & 2016_
 
-![Country Table](https://github.com/GangaVantagodi/Deforestation-Project/blob/main/Countries-abs.png)
