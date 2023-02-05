@@ -48,5 +48,11 @@ _C. QUARTILES_
 _Table 3.3: Count of Countries Grouped by Forestation Percent Quartiles, 2016_
 ![Quartile](https://github.com/GangaVantagodi/Deforestation-Project/blob/main/Quartiles.png)
 
+The largest number of countries in 2016 were found in the 1st quartile.
+
+There were 9 countries in the top quartile in 2016. These are countries with a very high percentage of their land area designated as forest. The following is a list of countries and their respective forest land, denoted as a percentage.
+
+_Table 3.4: Top Quartile Countries, 2016_
+
 
 
