@@ -16,3 +16,19 @@ In 1990, the percent of the total land area of the world designated as forest wa
 Latin America & Caribbean with 51%, and the region with the lowest relative forestation was Middle East & North Africa, with 1.78% forestation.
 
 _Table 2.1: Percent Forest Area by Region, 1990 & 2016_
+![Regional Table](https://github.com/GangaVantagodi/Deforestation-Project/blob/main/Regional%20Table.png)
+
+The only regions of the world that decreased in percent forest area from 1990 to 2016 were Latin America & Caribbean (dropped from 51.03% to 46.16%) and Sub-Saharan Africa (32.19% to 28.79%). All other regions actually increased in forest area over this time period. However, the drop in forest area in the two of mentioned regions was so large, the percent forest area of the world decreased over this time period from 32.42% to 31.38%.
+
+### COUNTRY-LEVEL DETAIL
+_A. SUCCESS STORIES_
+
+There is one particularly bright spot in the data at the country level, Iceland. This country actually increased in forest area from 1990 to 2016 by 213.66%. It would be interesting to study what has changed in this country over this time to drive this figure in the data higher. The country with the next largest increase in forest area from 1990 to 2016 was the French Polynesia, but it only saw an increase of 181.2%, much lower than the figure for Iceland.
+
+Russian Federation and China are of course very large countries in total land area, so when we look at the largest percent change in forest area from 1990 to 2016, we aren’t surprised to find a much smaller country listed at the top. Iceland increased in forest area by 213.66% from 1990 to 2016.
+
+_B. LARGEST CONCERNS_
+
+Which countries are seeing deforestation to the largest degree? We can answer this question in two ways. First, we can look at the absolute square kilometer decrease in forest area from 1990 to 2016. The following 3 countries had the largest decrease in forest area over the time period under consideration:
+
+_Table 3.1: Top 5 Amount Decrease in Forest Area by Country, 1990 & 2016_
