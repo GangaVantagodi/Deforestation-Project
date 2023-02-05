@@ -44,8 +44,9 @@ When we consider countries that decreased in forest area percentage the most bet
 From the above analysis, we see that Nigeria is the only country that ranks in the top 5 both in terms of absolute square kilometer decrease in forest as well as percent decrease in forest area from 1990 to 2016. Therefore, this country has a significant opportunity ahead to stop the decline and hopefully spearhead remedial efforts.
 
 _C. QUARTILES_
+
 _Table 3.3: Count of Countries Grouped by Forestation Percent Quartiles, 2016_
-![Quartile](
+![Quartile](https://github.com/GangaVantagodi/Deforestation-Project/blob/main/Quartiles.png)
 
 
 
