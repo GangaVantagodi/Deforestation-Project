@@ -53,6 +53,18 @@ The largest number of countries in 2016 were found in the 1st quartile.
 There were 9 countries in the top quartile in 2016. These are countries with a very high percentage of their land area designated as forest. The following is a list of countries and their respective forest land, denoted as a percentage.
 
 _Table 3.4: Top Quartile Countries, 2016_
+![Top Quartile](https://github.com/GangaVantagodi/Deforestation-Project/blob/main/Top-Quartile.png)
+
+### RECOMMENDATIONS
+● _What have you learned from the World Bank data?_
+From available data most of the countries in all regions except for Latin America & Caribbean and Sub-Saharan Africa, have increased forest area from 
+1990 to 2016. But those regions, where we have seen deforestation are so large it's been negatively impacting  overall world forestation.This is the reason we see little over 1% decrease in world's forestation during the period 1990-2016. Surprisingly smaller countries are doing great towards increasing forestation.
+
+● _Which countries should we focus on over others?_
+We should focus on countries like Brazil, China, Nigeria and few other countries from Sub-Saharan Africa. Nigeria is in top 5 in both, when we look at absolute change and percentage change in decreased forest area. China and Brazil are large countries,increasing forest percentage in these countries will 
+have positive impact on overall world forestation.
+United States sure is on right path to increase forest area but slower growth compared to other countries. 94 countries have more forestation than United States in 2016. So US certainly has to do better.
+
 
 
 
